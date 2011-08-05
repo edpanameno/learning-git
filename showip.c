@@ -1,7 +1,6 @@
 /**
  * This little program will allow you to see the IP
  * addresses for a host given on the command line.
- *
  **/
 #include <stdio.h>
 #include <string.h>
