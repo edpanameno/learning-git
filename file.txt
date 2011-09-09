@@ -1,7 +1,0 @@
-hello world
-hello world, again
-again? yep
-
-Making this change in the master branch.
-I am making yet another change in this file to see what this
-diff program is all about.
