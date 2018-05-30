@@ -2,7 +2,7 @@
 
 /**
  * A simple function that will allow the user
- * to print their name.
+ * to print their name. A new change.
  */
 void print_name(char *name)
 {
